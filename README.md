@@ -1,6 +1,6 @@
 <img width="1280" height="302" alt="Classes.bg" src="https://github.com/user-attachments/assets/5d6478a6-ee7d-4b5a-80dc-9a04e159e691" />
 
-Classes.bg is a digital platform built for schools specializing in dance, sports, arts, and languages. It helps school owners move away from manual paperwork and disorganized chat groups by providing a professional infrastructure for their daily operations.
+[Classes.bg](https://www.classes.bg/) is a digital platform built for schools specializing in dance, sports, arts, and languages. It helps school owners move away from manual paperwork and disorganized chat groups by providing a professional infrastructure for their daily operations.
 
 ## What it does
 
@@ -29,8 +29,4 @@ The platform is maintained by a dedicated group of developers and strategists:
 
 ## Integration
 
-Classes.bg is designed to be user friendly. The platform can be integrated directly into existing school websites or connected to Facebook pages to streamline the registration process for new students.
-
-## License
-
-Distributed under the MIT License. See the license file for more information.
+[Classes.bg](https://www.classes.bg/) is designed to be user friendly. The platform can be integrated directly into existing school websites or connected to Facebook pages to streamline the registration process for new students.
